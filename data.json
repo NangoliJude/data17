@@ -1,0 +1,65 @@
+[{
+    "id": 1,
+    "title": "Hero Banner",
+    "slug": "Finance-Landing-Page",
+    "header": "Need to put together a Quick",
+    "para": "Welcome to my home",
+   
+  "Kit": {
+    "display": "flex"
+  },
+
+  "Button":{
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "color": "white",
+    "marginTop": "2.5em",
+    "marginLeft": "0.1px",
+    "border": "0.5px solid white",
+    "borderRadius": "50px",
+    "display": "inline-block",
+    "width": "160px",
+    "padding": "0.7em",
+    "textAlign": "center",
+    "cursor": "pointer",
+    "outline": "0"
+  },
+
+  "ButtonB":{
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "color": "white",
+    "marginTop": "2.5em",
+    "marginLeft": "0.1px",
+    "border": "0.5px solid white",
+    "borderRadius": "50px",
+    "display": "inline-block",
+    "width": "160px",
+    "padding": "0.7em",
+    "textAlign": "center",
+    "cursor": "pointer",
+    "outline": "0"
+  },
+   
+    "Text": {
+    "opacity": "2",
+    "fontWeight":"48px", 
+    "fontSize": "14px",
+    "lineHeight": "1.2em",
+    "letterSpacing": "0.5px",
+    "linearTextA": "#1de9b6",
+    "linearTextB": "#2979ff",
+    "fontFamily": "Rubik"
+    },
+
+    "Image": {  
+     "linearA": "#001d4b",
+     "linearB": " #1d5b70",
+     "opacity": "2",
+     "blendBackground": "red",
+     "blendMode": "multiply",
+     "Image": "https://images.unsplash.com/photo-1525802498323-c8fbf69eb42f?ixlib=rb-0.3.5&s=dbe025c36b0770156a550ca433ec305e&auto=format&fit=crop&w=1534&q=80"
+   }
+    
+  }
+  ]
