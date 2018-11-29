@@ -61,5 +61,136 @@
      "Image": "https://images.unsplash.com/photo-1525802498323-c8fbf69eb42f?ixlib=rb-0.3.5&s=dbe025c36b0770156a550ca433ec305e&auto=format&fit=crop&w=1534&q=80"
    
     
+  },
+
+  {
+    "id": 1,
+    "title": "Hero Banner",
+    "slug": "Finance-Landing-Page",
+    "header": "Need to put together a Quick",
+    "para": "Welcome to my home",
+
+   
+  
+    "display": "flex",
+  
+
+ 
+    "BfontSize": "14px",
+    "BfontWeight": "bold",
+    "Bcolor": "white",
+    "BmarginTop": "2.5em",
+    "BmarginLeft": "0.1px",
+    "Bborder": "0.5px solid white",
+    "BborderRadius": "50px",
+    "Bdisplay": "inline-block",
+    "Bwidth": "160px",
+    "Bpadding": "0.7em",
+    "BtextAlign": "center",
+    "Bcursor": "pointer",
+    "Boutline": "0",
+
+
+  
+    "BBfontSize": "14px",
+    "BBfontWeight": "bold",
+    "BBcolor": "white",
+    "BBmarginTop": "2.5em",
+    "BBmarginLeft": "0.1px",
+    "BBborder": "0.5px solid white",
+    "BBborderRadius": "50px",
+    "BBdisplay": "inline-block",
+    "BBwidth": "160px",
+    "BBpadding": "0.7em",
+    "BBtextAlign": "center",
+    "BBcursor": "pointer",
+    "BBoutline": "0"
+  ,
+   
+   
+    "Topacity": "2",
+    "TfontWeight":"48px", 
+    "TfontSize": "14px",
+    "TlinTeHeight": "1.2em",
+    "TletterSpacing": "0.5px",
+    "TlinearTextA": "#1de9b6",
+    "TlinearTextB": "#2979ff",
+    "TfontFamily": "Rubik",
+  
+     
+     "linearA": "#001d4b",
+     "linearB": " #1d5b70",
+     "opacity": "2",
+     "blendBackground": "red",
+     "blendMode": "multiply",
+     "Image": "https://images.unsplash.com/photo-1543402648-31a416fe0621?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3e881c45c94d5bab5406a5067d98c3f6&auto=format&fit=crop&w=1534&q=80"
+   
+    
+  },
+
+  {
+    "id": 1,
+    "title": "Hero Banner",
+    "slug": "Finance-Landing-Page",
+    "header": "Need to put together a Quick",
+    "para": "Welcome to my home",
+
+   
+  
+    "display": "flex",
+  
+
+ 
+    "BfontSize": "14px",
+    "BfontWeight": "bold",
+    "Bcolor": "white",
+    "BmarginTop": "2.5em",
+    "BmarginLeft": "0.1px",
+    "Bborder": "0.5px solid white",
+    "BborderRadius": "50px",
+    "Bdisplay": "inline-block",
+    "Bwidth": "160px",
+    "Bpadding": "0.7em",
+    "BtextAlign": "center",
+    "Bcursor": "pointer",
+    "Boutline": "0",
+
+
+  
+    "BBfontSize": "14px",
+    "BBfontWeight": "bold",
+    "BBcolor": "white",
+    "BBmarginTop": "2.5em",
+    "BBmarginLeft": "0.1px",
+    "BBborder": "0.5px solid white",
+    "BBborderRadius": "50px",
+    "BBdisplay": "inline-block",
+    "BBwidth": "160px",
+    "BBpadding": "0.7em",
+    "BBtextAlign": "center",
+    "BBcursor": "pointer",
+    "BBoutline": "0"
+  ,
+   
+   
+    "Topacity": "2",
+    "TfontWeight":"48px", 
+    "TfontSize": "14px",
+    "TlinTeHeight": "1.2em",
+    "TletterSpacing": "0.5px",
+    "TlinearTextA": "#1de9b6",
+    "TlinearTextB": "#2979ff",
+    "TfontFamily": "Rubik",
+  
+     
+     "linearA": "#001d4b",
+     "linearB": " #1d5b70",
+     "opacity": "2",
+     "blendBackground": "red",
+     "blendMode": "multiply",
+     "Image": "https://images.unsplash.com/photo-1543365275-3bde39bd771f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f4c26dd6c5a04feb22eb220c71a56c02&auto=format&fit=crop&w=1502&q=80"
+   
+    
   }
+  
   ]
