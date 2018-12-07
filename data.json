@@ -1,46 +1,10 @@
 [{
     "id": 1,
     "title": "Hero Banner",
-    "slug": "Finance-Landing-Page",
+    "slug": "Landing-Page",
     "header": "Need to put together a Quick",
-    "para": "Learn how to build a modern site using React and the most efficient libraries to get your site/product online. Get familiar with Grid CSS, animations, interactions, dynamic data with Contentful and deploying your site with Netlify",
+    "para": "Learn how to build a modern site using React and the most efficient libraries to get your site product online. Get familiar with Grid CSS, animations, interactions, dynamic data with Contentful and deploying your site with Netlify",
 
-   
-  
-    "display": "flex",
-  
- 
-    "BfontSize": "14px",
-    "BfontWeight": "bold",
-    "Bcolor": "white",
-    "BmarginTop": "2.5em",
-    "BmarginLeft": "0.1px",
-    "Bborder": "0.5px solid white",
-    "BborderRadius": "50px",
-    "Bdisplay": "inline-block",
-    "Bwidth": "160px",
-    "Bpadding": "0.7em",
-    "BtextAlign": "center",
-    "Bcursor": "pointer",
-    "Boutline": "0",
-
-
-  
-    "BBfontSize": "14px",
-    "BBfontWeight": "bold",
-    "BBcolor": "white",
-    "BBmarginTop": "2.5em",
-    "BBmarginLeft": "0.1px",
-    "BBborder": "0.5px solid white",
-    "BBborderRadius": "50px",
-    "BBdisplay": "inline-block",
-    "BBwidth": "160px",
-    "BBpadding": "0.7em",
-    "BBtextAlign": "center",
-    "BBcursor": "pointer",
-    "BBoutline": "0"
-  ,
-   
    
     "Topacity": "2",
     "TfontWeight":"48px", 
