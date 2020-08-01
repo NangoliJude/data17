@@ -1,19 +1,23 @@
-[{
-    "id": 1,
-    "title": "How to make your Create React website Website SEO-friendly",
-    "slug": "How to make your Create React website Website SEO-friendly",
-    "header": "Need to put together a Quick",
-    "para": "Learn how to build a modern site using React and the most efficient libraries to get your site product online. Get familiar with Grid CSS, animations, interactions, dynamic data with Contentful and deploying your site with Netlify",
-     "Image": "https://images.unsplash.com/photo-1536246493861-fc485180ab0b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d16d0c0203af3b1471d0ff2e692b9e22&auto=format&fit=crop&w=1500&q=80"
-  },
- {
-    "id": 2,
-    "title": "How use React Helmet to add social card meta tags for Twitter and Facebook?",
-    "slug": "How use React Helmet to add social card meta tags for Twitter and Facebook?",
-    "header": "Need to put together a Quick",
-    "para": "Learn how to build a modern site using React and the most efficient libraries to get your site product online. Get familiar with Grid CSS, animations, interactions, dynamic data with Contentful and deploying your site with Netlify",
-     "Image": "https://images.unsplash.com/photo-1536246493861-fc485180ab0b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d16d0c0203af3b1471d0ff2e692b9e22&auto=format&fit=crop&w=1500&q=80"
-  }
-  
-  
-  ]
+[
+   {
+      "id":1,
+      "slug":"best-youtub-fonts",
+      "img":"https://images.unsplash.com/photo-1521302200778-33500795e128?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "title":"10 Best Fonts for Youtube Thumbnails That Look Sleek and Modern",
+      "description":" bring them viewers for their content and that is non other than the captivating thumbnail."
+   },
+   {
+      "id":2,
+      "slug":"best-Facebook-fonts",
+      "img":"https://images.unsplash.com/photo-1517292987719-0369a794ec0f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80",
+      "title":"Thumbnails That Look Sleek and Modern",
+      "description":" bring them viewers for their content and that is non other than the captivating thumbnail."
+   },
+   {
+      "id":3,
+      "slug":"best-tiktok-fonts",
+      "img":"https://images.unsplash.com/photo-1592706480233-be6e199bce96?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "title":"Look Sleek and Modern",
+      "description":"Our Mission ok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy.TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Mumbai, Singapore, Jakarta, Seoul, and Tokyo."
+   }
+]
