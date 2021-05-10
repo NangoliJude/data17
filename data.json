@@ -1,23 +1,79 @@
 [
    {
-      "id":1,
-      "slug":"best-youtub-fonts",
-      "img":"https://images.unsplash.com/photo-1521302200778-33500795e128?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
-      "title":"10 Best Fonts for Youtube Thumbnails That Look Sleek and Modern",
-      "description":" bring them viewers for their content and that is non other than the captivating thumbnail."
+      "id": 1,
+      "name": "C4K",
+      "focalLength": [28],
+      "Aperture": [2.4],
+      "framerate": [24],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "shutterAngle":[],
+      "videoResolution": 4096,
+      "resolution": "4K Cinema",
+      "keyword": "4K Cinema, Anafi Parrot  ",
+      "ndFilter": ["ND", "PL", "GR"],
+      "image": ""
    },
    {
-      "id":2,
-      "slug":"best-Facebook-fonts",
-      "img":"https://images.unsplash.com/photo-1517292987719-0369a794ec0f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80",
-      "title":"Thumbnails That Look Sleek and Modern",
-      "description":" bring them viewers for their content and that is non other than the captivating thumbnail."
+      "id": 1,
+      "name": "PARROT",
+      "focalLength": [35],
+      "Aperture": [2.4],
+      "framerate": [24],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "shutterAngle":[],
+      "videoResolution": 4096,
+      "resolution": "4K Cinema",
+      "keyword": "4K Cinema, Anafi Parrot  ",
+      "ndFilter": ["ND", "PL", "GR"],
+      "image": ""
+   },
+
+   {
+      "id": 2,
+      "name": "Anafi",
+      "focalLength": [35],
+      "Aperture": [2.4],
+      "framerate": [ 24,25,30,48,50,60],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000 ],
+      "shutterAngle":[],
+      "videoResolution": 3840,
+      "resolution": "4K-UHD",
+      "keyword": "4K UHD, Anafi Parrot  ",
+      "ndFilter": ["ND", "PL", "GR"]
    },
    {
-      "id":3,
-      "slug":"best-tiktok-fonts",
-      "img":"https://images.unsplash.com/photo-1592706480233-be6e199bce96?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
-      "title":"Look Sleek and Modern",
-      "description":"Our Mission ok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy.TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Mumbai, Singapore, Jakarta, Seoul, and Tokyo."
+      "id": 3,
+      "name": "Anafi",
+      "focalLength": [35],
+      "Aperture": [2.4],
+      "framerate": [ 24,25,30,48,50,60],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000 ],
+      "shutterAngle":[],
+      "videoResolution": 1920,
+      "resolution": "FHD",
+      "keyword": "FHD, Anafi Parrot ",
+      "ndFilter": ["ND", "PL", "GR"]
+   },
+
+   {
+      "id": 3,
+      "name": "Anafi",
+      "focalLength": [35],
+      "Aperture": [2.4],
+      "framerate": [ 24,25,30,48,50,60],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000 ],
+      "shutterAngle":[],
+      "videoResolution": 1920,
+      "resolution": "FHD",
+      "keyword": "Anafi Thermal ",
+      "ndFilter": ["ND", "PL", "GR"]
    }
+  
+
+
 ]
