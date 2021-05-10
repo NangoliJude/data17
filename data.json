@@ -1,6 +1,6 @@
 [
    {
-      "id": 1,
+      "id": "1",
       "name": "C4K",
       "focalLength": [28],
       "Aperture": [2.4],
@@ -15,7 +15,7 @@
       "image": ""
    },
    {
-      "id": 1,
+      "id": "2",
       "name": "PARROT",
       "focalLength": [35],
       "Aperture": [2.4],
@@ -31,7 +31,7 @@
    },
 
    {
-      "id": 2,
+      "id": "3",
       "name": "Anafi",
       "focalLength": [35],
       "Aperture": [2.4],
@@ -45,7 +45,7 @@
       "ndFilter": ["ND", "PL", "GR"]
    },
    {
-      "id": 3,
+      "id": "4",
       "name": "Anafi",
       "focalLength": [35],
       "Aperture": [2.4],
@@ -60,7 +60,7 @@
    },
 
    {
-      "id": 3,
+      "id": "5",
       "name": "Anafi",
       "focalLength": [35],
       "Aperture": [2.4],
