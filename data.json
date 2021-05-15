@@ -51,31 +51,8 @@
          {
             "name":"25",
             "target":"1/50TH"
-         },
-         {
-            "name":"30",
-            "target":"1/60TH"
-         },
-         {
-            "name":"48",
-            "target":"1/100TH"
-         },
-         {
-            "name":"50",
-            "target":"1/100TH"
-         },
-         {
-            "name":"60",
-            "target":"1/120TH"
-         },
-         {
-            "name":"120",
-            "target":"240/TH"
-         },
-         {
-            "name":"240",
-            "target":"1/500TH"
          }
+        
       ],
       "iso":[
          100,
