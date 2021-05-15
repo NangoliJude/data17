@@ -1,79 +1,40 @@
 [
    {
-      "id": "1",
-      "name": "C4K",
-      "focalLength": [28],
-      "Aperture": [2.4],
-      "framerate": [24],
-      "iso": [ 100,200, 400,800,1600,3200],
-      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
-      "shutterAngle":[],
-      "videoResolution": 4096,
-      "resolution": "4K Cinema",
-      "keyword": "4K Cinema, Anafi Parrot  ",
-      "ndFilter": ["ND", "PL", "GR"],
-      "image": ""
+             id: "1",
+            name: "Mavic Air 2 Drone",
+            focalLength: [{name: "24"},{ name: "40"},{name: "65"},{name: "69"},{name: "130"},{name: "175"},{name: "230"},{name: "300"}
+            ],
+            Aperture: [1, 1.4, 2, 2.8, 4, 5.6, 8, 11, 16, 22, 32, 45, 128],
+            framerate: [{name: "24", target: "1/50TH"},{ name: "25", target: "1/50TH"},{name: "30", target: "1/60TH"},{name: "48", target: "1/100TH"},{name: "50", target: "1/100TH"},{name: "60", target: "1/120TH"},{name: "120", target: "240/TH"},{name: "240",target: "1/500TH"}],
+            iso: [100, 200, 400, 800, 1600, 3200],
+            shutterSpeed: [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250, 1600, 2000, 2500, 3200, 4000, 5000, 6400, 8000],
+            shutterAngle: [15, 45, 48, 90, 180, 240, 360],
+            videoResolution: 1920,
+            resolution: "FHD HDR",
+            lux: 250,
+            ndFilter: ["ND", "PL", "GR", "UV", "Night Sky"],
+            installedFilter: ["NONE", "ND4", "ND8", "ND16", "ND32", "ND64",],
+            panAngles: [5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130, 135, 140, 145, 150, 155, 160, 165, 170, 175, 180, 185, 190, 195, 200, 205, 210, 215, 220, 225, 230, 235, 240, 245, 250, 255, 260, 265, 270, 275, 280, 285, 290, 295, 300, 305, 310, 315, 320, 325, 330, 335, 340, 345, 350, 355, 360],
+            keyword: ""
    },
-   {
-      "id": "2",
-      "name": "PARROT",
-      "focalLength": [35],
-      "Aperture": [2.4],
-      "framerate": [24],
-      "iso": [ 100,200, 400,800,1600,3200],
-      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
-      "shutterAngle":[],
-      "videoResolution": 4096,
-      "resolution": "4K Cinema",
-      "keyword": "4K Cinema, Anafi Parrot  ",
-      "ndFilter": ["ND", "PL", "GR"],
-      "image": ""
-   },
-
-   {
-      "id": "3",
-      "name": "Anafi",
-      "focalLength": [35],
-      "Aperture": [2.4],
-      "framerate": [ 24,25,30,48,50,60],
-      "iso": [ 100,200, 400,800,1600,3200],
-      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000 ],
-      "shutterAngle":[],
-      "videoResolution": 3840,
-      "resolution": "4K-UHD",
-      "keyword": "4K UHD, Anafi Parrot  ",
-      "ndFilter": ["ND", "PL", "GR"]
-   },
-   {
-      "id": "4",
-      "name": "Anafi",
-      "focalLength": [35],
-      "Aperture": [2.4],
-      "framerate": [ 24,25,30,48,50,60],
-      "iso": [ 100,200, 400,800,1600,3200],
-      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000 ],
-      "shutterAngle":[],
-      "videoResolution": 1920,
-      "resolution": "FHD",
-      "keyword": "FHD, Anafi Parrot ",
-      "ndFilter": ["ND", "PL", "GR"]
-   },
-
-   {
-      "id": "5",
-      "name": "Anafi",
-      "focalLength": [35],
-      "Aperture": [2.4],
-      "framerate": [ 24,25,30,48,50,60],
-      "iso": [ 100,200, 400,800,1600,3200],
-      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000 ],
-      "shutterAngle":[],
-      "videoResolution": 1920,
-      "resolution": "FHD",
-      "keyword": "Anafi Thermal ",
-      "ndFilter": ["ND", "PL", "GR"]
+      {
+             id: "2",
+            name: "Mavic Air",
+            focalLength: [{name: "24"},{ name: "40"},{name: "65"},{name: "69"},{name: "130"},{name: "175"},{name: "230"},{name: "300"}
+            ],
+            Aperture: [1, 1.4, 2, 2.8, 4, 5.6, 8, 11, 16, 22, 32, 45, 128],
+            framerate: [{name: "24", target: "1/50TH"},{ name: "25", target: "1/50TH"},{name: "30", target: "1/60TH"},{name: "48", target: "1/100TH"},{name: "50", target: "1/100TH"},{name: "60", target: "1/120TH"},{name: "120", target: "240/TH"},{name: "240",target: "1/500TH"}],
+            iso: [100, 200, 400, 800, 1600, 3200],
+            shutterSpeed: [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250, 1600, 2000, 2500, 3200, 4000, 5000, 6400, 8000],
+            shutterAngle: [15, 45, 48, 90, 180, 240, 360],
+            videoResolution: 1920,
+            resolution: "FHD HDR",
+            lux: 250,
+            ndFilter: ["ND", "PL", "GR", "UV", "Night Sky"],
+            installedFilter: ["NONE", "ND4", "ND8", "ND16", "ND32", "ND64",],
+            panAngles: [5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130, 135, 140, 145, 150, 155, 160, 165, 170, 175, 180, 185, 190, 195, 200, 205, 210, 215, 220, 225, 230, 235, 240, 245, 250, 255, 260, 265, 270, 275, 280, 285, 290, 295, 300, 305, 310, 315, 320, 325, 330, 335, 340, 345, 350, 355, 360],
+            keyword: ""
    }
-  
 
 
 ]
