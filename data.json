@@ -1,482 +1,228 @@
 [
    {
-      "id":"1",
-      "name":"DJI Mavic Air 2 Drone",
-      "focalLength":[
+      "id": "1",
+      "name": "DJI Air 2S Drone",
+      "focalLength": [
          {
-            "nameFocal":"16"
-         },
-         {
-            "nameFocal":"24"
-         },
-         {
-            "nameFocal":"35"
-         },
-         {
-            "nameFocal":"50"
-         },
-         {
-            "nameFocal":"70"
-         },
-         {
-            "nameFocal":"100"
-         },
-         {
-            "nameFocal":"230"
-         },
-         {
-            "nameFocal":"300"
+            "nameFocal": "22"
          }
       ],
-      "Aperture":[
+      "Aperture": [
          {
-            "nameAperture":"1"
-         },
-         {
-            "nameAperture":"1.4"
-         },
-         {
-            "nameAperture":" 2"
-         },
-         {
-            "nameAperture":"2.8"
-         },
-         {
-            "nameAperture":"4"
-         },
-         {
-            "nameAperture":"5.6"
-         },
-         {
-            "nameAperture":"8"
-         },
-         {
-            "nameAperture":"11"
-         },
-         {
-            "nameAperture":"16"
-         },
-         {
-            "nameAperture":"22"
-         },
-         {
-            "nameAperture":"32"
-         },
-         {
-            "nameAperture":"45"
-         },
-         {
-            "nameAperture":"128"
+            "nameAperture": "2.8"
          }
       ],
-      "framerate":[
+      "framerate": [
          {
-            "name":"24",
-            "target":"1/50TH"
+            "name": "24",
+            "target": "1/50TH"
          },
          {
-            "name":"25",
-            "target":"1/50TH"
+            "name": "25",
+            "target": "1/50TH"
          },
          {
-            "name":"30",
-            "target":"1/60TH"
-         },
-         {
-            "name":"48",
-            "target":"1/100TH"
-         },
-         {
-            "name":"50",
-            "target":"1/100TH"
-         },
-         {
-            "name":"60",
-            "target":"1/120TH"
-         },
-         {
-            "name":"120",
-            "target":"240/TH"
-         },
-         {
-            "name":"240",
-            "target":"1/500TH"
+            "name": "30",
+            "target": "1/60TH"
          }
       ],
-      "iso":[
-         {
-            "nameIso":"100"
-         },
-         {
-            "nameIso":"200"
-         },
-         {
-            "nameIso":"400"
-         },
-         {
-            "nameIso":"800"
-         },
-         {
-            "nameIso":"1600"
-         },
-         {
-            "nameIso":"3200"
-         }
-      ],
-      "shutterSpeed":[
-         {
-            "name":"1/30"
-         },
-         {
-            "name":"1/50"
-         },
-         {
-            "name":"1/60"
-         },
-         {
-            "name":"1/80"
-         },
-         {
-            "name":"1/100"
-         },
-         {
-            "name":"1/125"
-         },
-         {
-            "name":"1/160"
-         },
-         {
-            "name":"1/200"
-         },
-         {
-            "name":"1/250"
-         },
-         {
-            "name":"1/320"
-         },
-         {
-            "name":"1/400"
-         },
-         {
-            "name":"1/500"
-         },
-         {
-            "name":"1/640"
-         },
-         {
-            "name":"1/800"
-         },
-         {
-            "name":"1/1000"
-         },
-         {
-            "name":"1/1250"
-         },
-         {
-            "name":"1/1600"
-         },
-         {
-            "name":"1/2000"
-         },
-         {
-            "name":"1/2500"
-         },
-         {
-            "name":"1/3200"
-         },
-         {
-            "name":"1/4000"
-         },
-         {
-            "name":"1/5000"
-         },
-         {
-            "name":"1/6400"
-         },
-         {
-            "name":"1/8000"
-         }
-      ],
-      "videoResolution":1920,
-      "resolution":"FHD HDR",
-      "lux":250,
-      "ndFilter":[
-         {
-            "nameND":"ND Standard"
-         },
-         {
-            "nameND":"PL"
-         },
-         {
-            "nameND":"GR"
-         },
-         {
-            "nameND":"UV"
-         },
-         {
-            "nameND":"Night Sky"
-         }
-      ],
-      "installedFilter":[
-         {
-            "installed":"NONE"
-         },
-         {
-            "installed":"ND4"
-         },
-         {
-            "installed":"ND8"
-         },
-         {
-            "installed":"ND16"
-         },
-         {
-            "installed":"ND32"
-         },
-         {
-            "installed":"ND64"
-         }
-      ],
-      "keyword":"Mavic Air 2 Drone,FHD HDR, 1920 "
+      "videoResolution": 5472,
+      "resolution": "5.4K",
+      "keyword": "DJI Air 2S,5.4K, 5472 "
    },
    {
-      "id":"2",
-      "name":"PARROT Anafi Drone",
-      "focalLength":[
+      "id": "2",
+      "name": "DJI Air 2S Drone",
+      "focalLength": [
          {
-            "nameFocal":"16"
-         },
-         {
-            "nameFocal":"24"
-         },
-         {
-            "nameFocal":"35"
-         },
-         {
-            "nameFocal":"50"
-         },
-         {
-            "nameFocal":"70"
-         },
-         {
-            "nameFocal":"100"
-         },
-         {
-            "nameFocal":"230"
-         },
-         {
-            "nameFocal":"300"
+            "nameFocal": "22"
          }
       ],
-      "Aperture":[
+      "Aperture": [
          {
-            "nameAperture":"1"
-         },
-         {
-            "nameAperture":"1.4"
-         },
-         {
-            "nameAperture":" 2"
-         },
-         {
-            "nameAperture":"2.8"
-         },
-         {
-            "nameAperture":"4"
-         },
-         {
-            "nameAperture":"5.6"
-         },
-         {
-            "nameAperture":"8"
-         },
-         {
-            "nameAperture":"11"
-         },
-         {
-            "nameAperture":"16"
-         },
-         {
-            "nameAperture":"22"
-         },
-         {
-            "nameAperture":"32"
-         },
-         {
-            "nameAperture":"45"
-         },
-         {
-            "nameAperture":"128"
+            "nameAperture": "2.8"
          }
       ],
-      "framerate":[
+      "framerate": [
          {
-            "name":"24",
-            "target":"1/50TH"
+            "name": "24",
+            "target": "1/50TH"
          },
          {
-            "name":"25",
-            "target":"1/50TH"
+            "name": "25",
+            "target": "1/50TH"
          },
          {
-            "name":"30",
-            "target":"1/60TH"
+            "name": "30",
+            "target": "1/60TH"
          },
          {
-            "name":"48",
-            "target":"1/100TH"
+            "name": "48",
+            "target": "1/100TH"
          },
          {
-            "name":"50",
-            "target":"1/100TH"
+            "name": "50",
+            "target": "1/100TH"
          },
          {
-            "name":"60",
-            "target":"1/120TH"
-         },
-         {
-            "name":"120",
-            "target":"240/TH"
-         },
-         {
-            "name":"240",
-            "target":"1/500TH"
+            "name": "60",
+            "target": "1/120TH"
          }
       ],
-      "iso":[
+      "videoResolution": 3840,
+      "resolution": "4K Ultra HD",
+      "keyword": "DJI Air 2S, 4K Ultra HD, 3840 "
+   },
+   {
+      "id": "3",
+      "name": "DJI Air 2S Drone",
+      "focalLength": [
          {
-            "nameIso":"100"
-         },
-         {
-            "nameIso":"200"
-         },
-         {
-            "nameIso":"400"
-         },
-         {
-            "nameIso":"800"
-         },
-         {
-            "nameIso":"1600"
-         },
-         {
-            "nameIso":"3200"
+            "nameFocal": "22"
          }
       ],
-      "shutterSpeed":[
+      "Aperture": [
          {
-            "name":"1/30"
-         },
-         {
-            "name":"1/50"
-         },
-         {
-            "name":"1/60"
-         },
-         {
-            "name":"1/80"
-         },
-         {
-            "name":"1/100"
-         },
-         {
-            "name":"1/125"
-         },
-         {
-            "name":"1/160"
-         },
-         {
-            "name":"1/200"
-         },
-         {
-            "name":"1/250"
-         },
-         {
-            "name":"1/320"
-         },
-         {
-            "name":"1/400"
-         },
-         {
-            "name":"1/500"
-         },
-         {
-            "name":"1/640"
-         },
-         {
-            "name":"1/800"
-         },
-         {
-            "name":"1/1000"
-         },
-         {
-            "name":"1/1250"
-         },
-         {
-            "name":"1/1600"
-         },
-         {
-            "name":"1/2000"
-         },
-         {
-            "name":"1/2500"
-         },
-         {
-            "name":"1/3200"
-         },
-         {
-            "name":"1/4000"
-         },
-         {
-            "name":"1/5000"
-         },
-         {
-            "name":"1/6400"
-         },
-         {
-            "name":"1/8000"
+            "nameAperture": "2.8"
          }
       ],
-      "videoResolution":1920,
-      "resolution":"FHD HDR",
-      "lux":250,
-      "ndFilter":[
+      "framerate": [
          {
-            "nameND":"ND Standard"
+            "name": "24",
+            "target": "1/50TH"
          },
          {
-            "nameND":"PL"
+            "name": "25",
+            "target": "1/50TH"
          },
          {
-            "nameND":"GR"
+            "name": "30",
+            "target": "1/60TH"
          },
          {
-            "nameND":"UV"
+            "name": "48",
+            "target": "1/100TH"
          },
          {
-            "nameND":"Night Sky"
+            "name": "50",
+            "target": "1/100TH"
+         },
+         {
+            "name": "60",
+            "target": "1/120TH"
          }
       ],
-      "installedFilter":[
+      "videoResolution": 2688,
+      "resolution": "2.7K",
+      "keyword": "DJI Air 2S, 2.7K, 2688"
+   },
+   {
+      "id": "4",
+      "name": "DJI Air 2S Drone",
+      "focalLength": [
          {
-            "installed":"NONE"
-         },
-         {
-            "installed":"ND4"
-         },
-         {
-            "installed":"ND8"
-         },
-         {
-            "installed":"ND16"
-         },
-         {
-            "installed":"ND32"
-         },
-         {
-            "installed":"ND64"
+            "nameFocal": "22"
          }
       ],
-      "keyword":"Mavic Air 2 Drone,FHD HDR, 1920 "
+      "Aperture": [
+         {
+            "nameAperture": "2.8"
+         }
+      ],
+      "framerate": [
+         {
+            "name": "24",
+            "target": "1/50TH"
+         },
+         {
+            "name": "25",
+            "target": "1/50TH"
+         },
+         {
+            "name": "30",
+            "target": "1/60TH"
+         },
+         {
+            "name": "48",
+            "target": "1/100TH"
+         },
+         {
+            "name": "50",
+            "target": "1/100TH"
+         },
+         {
+            "name": "60",
+            "target": "1/120TH"
+         },
+         {
+            "name": "120",
+            "target": "240/TH"
+         }
+      ],
+      "videoResolution": 1920,
+      "resolution": "FHD",
+      "keyword": "DJI Air 2S, 2.7K, 2688"
+   },
+   {
+      "id": "5",
+      "name": "DJI Mini 2 Drone",
+      "focalLength": [
+         {
+            "nameFocal": "24"
+         }
+      ],
+      "Aperture": [
+         {
+            "nameAperture": "2.8"
+         }
+      ],
+      "framerate": [
+         {
+            "name": "24",
+            "target": "1/50TH"
+         },
+         {
+            "name": "25",
+            "target": "1/50TH"
+         },
+         {
+            "name": "30",
+            "target": "1/60TH"
+         }
+      ],
+      "videoResolution": 3840,
+      "resolution": "4K",
+      "keyword": "DJI Mini 2, 4K, 3840"
+   },
+   {
+      "id": "6",
+      "name": "DJI Mini 2 Drone",
+      "focalLength": [
+         {
+            "nameFocal": "24"
+         }
+      ],
+      "Aperture": [
+         {
+            "nameAperture": "2.8"
+         }
+      ],
+      "framerate": [
+         {
+            "name": "24",
+            "target": "1/50TH"
+         },
+         {
+            "name": "25",
+            "target": "1/50TH"
+         },
+         {
+            "name": "30",
+            "target": "1/60TH"
+         }
+      ],
+      "videoResolution": 2720,
+      "resolution": "2.7K",
+      "keyword": "DJI Mini 2, 2.7K, 2720"
    }
 ]
