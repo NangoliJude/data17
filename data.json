@@ -2,11 +2,30 @@
    {
       "id": "1",
       "name": "DJI Air 2S Drone- Red Monstra",
-      "focalLength": [
-         {
-            "nameFocal": "22"
-         }
-      ],
+      "focalLength": [{
+      "nameFocal":"16"
+   },
+   {
+      "nameFocal":"24"
+   },
+   {
+      "nameFocal":"35"
+   },
+   {
+      "nameFocal":"50"
+   },
+   {
+      "nameFocal":"70"
+   },
+   {
+      "nameFocal":"100"
+   },
+   {
+      "nameFocal":"230"
+   },
+   {
+      "nameFocal":"300"
+   }
       "Aperture": [
          {
             "nameAperture": "2.8"
