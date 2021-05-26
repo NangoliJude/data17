@@ -1,7 +1,7 @@
 [
    {
       "id": "1",
-      "name": "DJI Air 2S Drone",
+      "name": "DJI Air 2S Drone- Red Monstra",
       "focalLength": [
          {
             "nameFocal": "22"
@@ -69,7 +69,7 @@
             "target": "1/120TH"
          }
       ],
-      "videoResolution": 3840,
+      "videoResolution": 8192,
       "resolution": "4K Ultra HD",
       "keyword": "DJI Air 2S, 4K Ultra HD, 3840 "
    },
