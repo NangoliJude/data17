@@ -1,31 +1,9 @@
 [
    {
       "id": "1",
-      "name": "DJI Air 2S Drone- Red Monstra",
+      "name": "DJI Air 2S Drone",
       "focalLength": [{
-      "nameFocal":"16"
-   },
-   {
-      "nameFocal":"24"
-   },
-   {
-      "nameFocal":"35"
-   },
-   {
-      "nameFocal":"50"
-   },
-   {
-      "nameFocal":"70"
-   },
-   {
-      "nameFocal":"100"
-   },
-   {
-      "nameFocal":"230"
-   },
-   {
-      "nameFocal":"300"
-   }],
+      "nameFocal":"22",
       "Aperture": [
          {
             "nameAperture": "2.8"
@@ -51,12 +29,8 @@
    },
    {
       "id": "2",
-      "name": "DJI Air 2S Drone Test",
-      "focalLength": [
-         {
-            "nameFocal": "22"
-         }
-      ],
+      "name": "DJI Air 2S Drone Red Monstara",
+      "focalLength": "22",
       "Aperture": [
          {
             "nameAperture": "2.8"
@@ -95,11 +69,7 @@
    {
       "id": "3",
       "name": "DJI Air 2S Drone",
-      "focalLength": [
-         {
-            "nameFocal": "22"
-         }
-      ],
+      "focalLength": "22",
       "Aperture": [
          {
             "nameAperture": "2.8"
@@ -185,11 +155,7 @@
    {
       "id": "5",
       "name": "DJI Mini 2 Drone Jude",
-      "focalLength": [
-         {
-            "nameFocal": "24"
-         }
-      ],
+      "focalLength":"22",
       "Aperture": [
          {
             "nameAperture": "2.8"
@@ -216,11 +182,7 @@
    {
       "id": "6",
       "name": "DJI Mini 2 Drone",
-      "focalLength": [
-         {
-            "nameFocal": "24"
-         }
-      ],
+      "focalLength": "22",
       "Aperture": [
          {
             "nameAperture": "2.8"
