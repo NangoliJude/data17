@@ -108,11 +108,7 @@
    {
       "id": "4",
       "name": "DJI Air 2S Drone",
-      "focalLength": [
-         {
-            "nameFocal": "22"
-         }
-      ],
+      "focalLength": "22",
       "Aperture": [
          {
             "nameAperture": "2.8"
