@@ -1,204 +1,204 @@
 [
    {
-      "id": "1",
-      "name": "DJI Air 2S Drone",
-      "focalLength": "22",
-      "Aperture": [
-         {
-            "nameAperture": "2.8"
-         }
-      ],
-      "framerate": [
-         {
-            "name": "24",
-            "target": "1/50TH"
-         },
-         {
-            "name": "25",
-            "target": "1/50TH"
-         },
-         {
-            "name": "30",
-            "target": "1/60TH"
-         }
-      ],
-      "videoResolution": 5472,
-      "resolution": "5.4K",
-      "keyword": "DJI Air 2S,5.4K, 5472 "
-   },
-   {
-      "id": "2",
-      "name": "DJI Air 2S Drone Red Monstara",
-      "focalLength": "22",
-      "Aperture": [
-         {
-            "nameAperture": "2.8"
-         }
-      ],
-      "framerate": [
-         {
-            "name": "24",
-            "target": "1/50TH"
-         },
-         {
-            "name": "25",
-            "target": "1/50TH"
-         },
-         {
-            "name": "30",
-            "target": "1/60TH"
-         },
-         {
-            "name": "48",
-            "target": "1/100TH"
-         },
-         {
-            "name": "50",
-            "target": "1/100TH"
-         },
-         {
-            "name": "60",
-            "target": "1/120TH"
-         }
-      ],
-      "videoResolution": 8192,
-      "resolution": "4K Ultra HD",
-      "keyword": "DJI Air 2S, 4K Ultra HD, 3840 "
-   },
-   {
-      "id": "3",
-      "name": "DJI Air 2S Drone",
-      "focalLength": "22",
-      "Aperture": [
-         {
-            "nameAperture": "2.8"
-         }
-      ],
-      "framerate": [
-         {
-            "name": "24",
-            "target": "1/50TH"
-         },
-         {
-            "name": "25",
-            "target": "1/50TH"
-         },
-         {
-            "name": "30",
-            "target": "1/60TH"
-         },
-         {
-            "name": "48",
-            "target": "1/100TH"
-         },
-         {
-            "name": "50",
-            "target": "1/100TH"
-         },
-         {
-            "name": "60",
-            "target": "1/120TH"
-         }
-      ],
-      "videoResolution": 2688,
-      "resolution": "2.7K",
-      "keyword": "DJI Air 2S, 2.7K, 2688"
-   },
-   {
-      "id": "4",
-      "name": "DJI Air 2S Drone",
-      "focalLength": "22",
-      "Aperture": [
-         {
-            "nameAperture": "2.8"
-         }
-      ],
-      "framerate": [
-         {
-            "name": "24",
-            "target": "1/50TH"
-         },
-         {
-            "name": "25",
-            "target": "1/50TH"
-         },
-         {
-            "name": "30",
-            "target": "1/60TH"
-         },
-         {
-            "name": "48",
-            "target": "1/100TH"
-         },
-         {
-            "name": "50",
-            "target": "1/100TH"
-         },
-         {
-            "name": "60",
-            "target": "1/120TH"
-         },
-         {
-            "name": "120",
-            "target": "240/TH"
-         }
-      ],
-      "videoResolution": 1920,
-      "resolution": "FHD",
-      "keyword": "DJI Air 2S, 2.7K, 2688"
-   },
-   {
-      "id": "5",
-      "name": "DJI Mini 2 Drone Jude",
+      "id":"1",
+      "name":"DJI Air 2S Drone",
       "focalLength":"22",
-      "Aperture": [
+      "Aperture":[
          {
-            "nameAperture": "2.8"
+            "nameAperture":"2.8"
          }
       ],
-      "framerate": [
+      "framerate":[
          {
-            "name": "24",
-            "target": "1/50TH"
+            "name":"24",
+            "target":"1/50TH"
          },
          {
-            "name": "25",
-            "target": "1/50TH"
+            "name":"25",
+            "target":"1/50TH"
          },
          {
-            "name": "30",
-            "target": "1/60TH"
+            "name":"30",
+            "target":"1/60TH"
          }
       ],
-      "videoResolution": 3840,
-      "resolution": "4K",
-      "keyword": "DJI Mini 2, 4K, 3840"
+      "videoResolution":5472,
+      "resolution":"5.4K",
+      "keyword":"DJI Air 2S,5.4K, 5472 "
    },
    {
-      "id": "6",
-      "name": "DJI Mini 2 Drone",
-      "focalLength": "22",
-      "Aperture": [
+      "id":"2",
+      "name":"DJI Air 2S Drone Red Monstara",
+      "focalLength":"22",
+      "Aperture":[
          {
-            "nameAperture": "2.8"
+            "nameAperture":"2.8"
          }
       ],
-      "framerate": [
+      "framerate":[
          {
-            "name": "24",
-            "target": "1/50TH"
+            "name":"24",
+            "target":"1/50TH"
          },
          {
-            "name": "25",
-            "target": "1/50TH"
+            "name":"25",
+            "target":"1/50TH"
          },
          {
-            "name": "30",
-            "target": "1/60TH"
+            "name":"30",
+            "target":"1/60TH"
+         },
+         {
+            "name":"48",
+            "target":"1/100TH"
+         },
+         {
+            "name":"50",
+            "target":"1/100TH"
+         },
+         {
+            "name":"60",
+            "target":"1/120TH"
          }
       ],
-      "videoResolution": 2720,
-      "resolution": "2.7K",
-      "keyword": "DJ Mini 2, 2.7K, 2720 Jude"
+      "videoResolution":8192,
+      "resolution":"4K Ultra HD",
+      "keyword":"DJI Air 2S, 4K Ultra HD, 3840 "
+   },
+   {
+      "id":"3",
+      "name":"DJI Air 2S Drone",
+      "focalLength":"22",
+      "Aperture":[
+         {
+            "nameAperture":"2.8"
+         }
+      ],
+      "framerate":[
+         {
+            "name":"24",
+            "target":"1/50TH"
+         },
+         {
+            "name":"25",
+            "target":"1/50TH"
+         },
+         {
+            "name":"30",
+            "target":"1/60TH"
+         },
+         {
+            "name":"48",
+            "target":"1/100TH"
+         },
+         {
+            "name":"50",
+            "target":"1/100TH"
+         },
+         {
+            "name":"60",
+            "target":"1/120TH"
+         }
+      ],
+      "videoResolution":2688,
+      "resolution":"2.7K",
+      "keyword":"DJI Air 2S, 2.7K, 2688"
+   },
+   {
+      "id":"4",
+      "name":"DJI Air 2S Drone",
+      "focalLength":"22",
+      "Aperture":[
+         {
+            "nameAperture":"2.8"
+         }
+      ],
+      "framerate":[
+         {
+            "name":"24",
+            "target":"1/50TH"
+         },
+         {
+            "name":"25",
+            "target":"1/50TH"
+         },
+         {
+            "name":"30",
+            "target":"1/60TH"
+         },
+         {
+            "name":"48",
+            "target":"1/100TH"
+         },
+         {
+            "name":"50",
+            "target":"1/100TH"
+         },
+         {
+            "name":"60",
+            "target":"1/120TH"
+         },
+         {
+            "name":"120",
+            "target":"240/TH"
+         }
+      ],
+      "videoResolution":1920,
+      "resolution":"FHD",
+      "keyword":"DJI Air 2S, 2.7K, 2688"
+   },
+   {
+      "id":"5",
+      "name":"DJI Mini 2 Drone Jude",
+      "focalLength":"22",
+      "Aperture":[
+         {
+            "nameAperture":"2.8"
+         }
+      ],
+      "framerate":[
+         {
+            "name":"24",
+            "target":"1/50TH"
+         },
+         {
+            "name":"25",
+            "target":"1/50TH"
+         },
+         {
+            "name":"30",
+            "target":"1/60TH"
+         }
+      ],
+      "videoResolution":3840,
+      "resolution":"4K",
+      "keyword":"DJI Mini 2, 4K, 3840"
+   },
+   {
+      "id":"6",
+      "name":"DJI Mini 2 Drone",
+      "focalLength":"22",
+      "Aperture":[
+         {
+            "nameAperture":"2.8"
+         }
+      ],
+      "framerate":[
+         {
+            "name":"24",
+            "target":"1/50TH"
+         },
+         {
+            "name":"25",
+            "target":"1/50TH"
+         },
+         {
+            "name":"30",
+            "target":"1/60TH"
+         }
+      ],
+      "videoResolution":2720,
+      "resolution":"2.7K",
+      "keyword":"DJ Mini 2, 2.7K, 2720 Jude"
    }
 ]
