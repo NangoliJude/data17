@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "tEST DJI FPV Drone",
+        "name": "DJI FPV Drone",
         "focalLength": "35",
         "Aperture": [2.8],
         "framerate": [24, 25, 30, 48, 50],
