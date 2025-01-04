@@ -1,0 +1,29 @@
+ [
+  { // January
+    0: [
+      { id: 1, department: 'auditor', state: 'Iowa', item: [
+        "January 1: Effective date of current assessment",
+        "Senior Citizen/Disabled Credit and Rent Reimbursement forms available. Apply between January 1st and June 1st."
+      ] },
+      { id: 2, department: 'Assessor', state: 'Iowa', item: [
+        "January 1: Effective date of current assessment",
+        "Senior Citizen/Disabled Credit and Rent Reimbursement forms available. Apply between January 1st and June 1st."
+      ] },
+      { id: 3, department: 'Assessor', state: 'California', item: [
+        "January 1: Effective date of current assessment",
+        "Senior Citizen/Disabled Credit and Rent Reimbursement forms available. Apply between January 1st and June 1st."
+      ] },
+    ]
+  },
+  { // February
+    1: [
+      { id: 1, department: 'auditor', state: 'Iowa', item: [
+        "February 1: Sign-up deadline for most exemptions."
+      ] },
+      { id: 2, department: 'Assessor', state: 'Iowa', item: [
+        "February 1: Sign-up deadline for most exemptions."
+      ] },
+    ]
+  },
+  // Other months...
+];
