@@ -3,9 +3,7 @@
   "id": 0,
   "title": "Auditor",
   "icon": ["icon-auditor", "icon-analysis", "icon-finance"],
-  "content":
-
-[
+  "content":[
     ["Stay informed about the county's", "finances with financial reports", "audits, and tax insights!", "#CountyFinance #AuditReports #PublicAccountability"],
     ["Need property tax help?", "We assist with assessments,", "rates, and payments.", "#PropertyTaxes #TaxAssistance #CountyRevenue"],
     ["We ensure transparency in", "county spending with detailed", "reports.", "#CountyExpenditures #FinancialTransparency #PublicAudits"],
