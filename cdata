@@ -3,34 +3,38 @@
   "id": 0,
   "title": "Auditor",
   "icon": ["icon-auditor", "icon-analysis", "icon-finance"],
-  "content":[
-  [
-    getRandomIcon([`BHAPPY`]),
-    getRandomIcon(['BNEW YEAR']),
-    getRandomIcon([CountyDate]),
-    getRandomIcon(["BMAY THE COMING YEAR"]),
-    getRandomIcon(['BBRING YOU HAPPINESS AND NEW POSSIBLITIES']),
-    getRandomIcon([CountyDepartment]),
-    getRandomIcon(['BLogo']),
-    getRandomIcon(['Bred', 'green', 'brown']),
-    getRandomIcon(['Bcursive', 'Tahoma']),
-    getRandomIcon(['Bcursive', 'Tahoma']),
-    getRandomIcon(['Bcursive', 'Tahoma'])
-  ],
-  [
-    getRandomIcon([`CHAPPY`]),
-    getRandomIcon(['CNEW YEAR']),
-    getRandomIcon([CountyDate]),
-    getRandomIcon(["CMAY THE COMING YEAR"]),
-    getRandomIcon(['CBRING YOU HAPPINESS AND NEW POSSIBLITIES']),
-    getRandomIcon([CountyDepartment]),
-    getRandomIcon(['CLogo']),
-    getRandomIcon(['Cred', 'green', 'brown']),
-    getRandomIcon(['Ccursive', 'Tahoma']),
-    getRandomIcon(['Ccursive', 'Tahoma']),
-    getRandomIcon(['Ccursive', 'Tahoma'])
-  ],
-]
+  "content":
+
+[
+    ["Stay informed about the county's", "finances with financial reports", "audits, and tax insights!", "#CountyFinance #AuditReports #PublicAccountability"],
+    ["Need property tax help?", "We assist with assessments,", "rates, and payments.", "#PropertyTaxes #TaxAssistance #CountyRevenue"],
+    ["We ensure transparency in", "county spending with detailed", "reports.", "#CountyExpenditures #FinancialTransparency #PublicAudits"],
+    ["Have budget or revenue", "questions? We're here to", "clarify!", "#BudgetPlanning #CountyRevenue #FinanceStrategy"],
+    ["The Auditor’s office ensures", "compliance with financial", "regulations.", "#FinancialCompliance #RegulatoryOversight #CountyAudit"],
+    ["Your input on fiscal", "policies matters. Share your", "thoughts!", "#PublicFeedback #CountyPolicies #FiscalTransparency"],
+    ["Understand how your tax", "dollars are spent with", "detailed reports.", "#TaxDollars #SpendingBreakdown #FinancialReports"],
+    ["Apply for alcohol & tobacco", "licenses through the Auditor's", "office.", "#AlcoholTobaccoLicenses #CountyLicensing #BusinessPermits"],
+    ["Stay informed on elections", "and voting procedures.", "#Elections #Voting #RegisterToVote"],
+    ["Unsure of your voter", "status? Check now!", "#VoterRegistration #CheckStatus #ElectionReady"],
+    ["Register to vote with", "ease—let us guide", "you!", "#VoterRegistration #HowToVote #ElectoralProcess"],
+    ["Learn about voting methods,", "locations, and hours.", "#HowToVote #VotingProcedures #ElectionDay"],
+    ["Find your voting precinct", "with our precinct", "finder.", "#VotingPrecincts #PrecinctFinder #ElectionMaps"],
+    ["Absentee voting options", "available for those unable", "to attend the polls.", "#AbsenteeVoting #VotingByMail #ElectionParticipation"],
+    ["Military and overseas", "voters can cast", "ballots too!", "#MilitaryVoting #OverseasVoting #ElectionsAbroad"],
+    ["Ensure your vote", "counts with the", "right ID.", "#VoterID #ElectionRequirements #IDForVoting"],
+    ["Stay updated on", "upcoming elections,", "dates, and deadlines.", "#UpcomingElections #ElectionDates #VoteNow"],
+    ["Track election night", "results in", "real-time.", "#ElectionResults #VoteCounting #ElectionNight"],
+    ["Understand different types", "of elections and", "their processes.", "#ElectionTypes #PrimaryElections #GeneralElections"],
+    ["Become a Precinct Election", "Official and help on", "Election Day!", "#ElectionOfficials #PollWorkers #CommunityService"],
+    ["Get to know the", "candidates with", "detailed profiles.", "#Candidates #ElectionProfiles #VoteSmart"],
+    ["Stay in touch", "with your elected", "officials.", "#ElectedOfficials #PublicService #GovernmentLeaders"],
+    ["Explore election maps", "to understand", "your district.", "#ElectionMaps #VotingDistricts #DistrictBoundaries"],
+    ["Learn about tax", "sales and upcoming", "lien auctions.", "#TaxSale #TaxLienAuction #PropertySales"],
+    ["Stay updated on", "county financial", "policies and procedures.", "#CountyPolicies #FinancialPolicies #Compliance"],
+    ["Review the county’s", "financial records and", "budget breakdowns.", "#FinancialReports #CountyFinancials #Budgeting"],
+    ["Learn about county", "levies and tax", "rate proposals.", "#CountyLevy #TaxLevy #PublicFinance"],
+    ["Get informed about the", "county’s budget process", "and hearings.", "#CountyBudget #BudgetPlanning #PublicFinance"]
+  ]
 },
 
 {
