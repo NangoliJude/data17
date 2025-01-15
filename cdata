@@ -1,270 +1,143 @@
 [
-{
-  "id": 0,
-  "title": "Auditor",
-  "icon": ["icon-auditor", "icon-analysis", "icon-finance"],
-  "content":[
-    ["Stay informed about the county's", "finances with financial reports", "audits, and tax insights!", "#CountyFinance #AuditReports #PublicAccountability"],
-    ["Need property tax help?", "We assist with assessments,", "rates, and payments.", "#PropertyTaxes #TaxAssistance #CountyRevenue"],
-    ["We ensure transparency in", "county spending with detailed", "reports.", "#CountyExpenditures #FinancialTransparency #PublicAudits"],
-    ["Have budget or revenue", "questions? We're here to", "clarify!", "#BudgetPlanning #CountyRevenue #FinanceStrategy"],
-    ["The Auditor’s office ensures", "compliance with financial", "regulations.", "#FinancialCompliance #RegulatoryOversight #CountyAudit"],
-    ["Your input on fiscal", "policies matters. Share your", "thoughts!", "#PublicFeedback #CountyPolicies #FiscalTransparency"],
-    ["Understand how your tax", "dollars are spent with", "detailed reports.", "#TaxDollars #SpendingBreakdown #FinancialReports"],
-    ["Apply for alcohol & tobacco", "licenses through the Auditor's", "office.", "#AlcoholTobaccoLicenses #CountyLicensing #BusinessPermits"],
-    ["Stay informed on elections", "and voting procedures.", "#Elections #Voting #RegisterToVote"],
-    ["Unsure of your voter", "status? Check now!", "#VoterRegistration #CheckStatus #ElectionReady"],
-    ["Register to vote with", "ease—let us guide", "you!", "#VoterRegistration #HowToVote #ElectoralProcess"],
-    ["Learn about voting methods,", "locations, and hours.", "#HowToVote #VotingProcedures #ElectionDay"],
-    ["Find your voting precinct", "with our precinct", "finder.", "#VotingPrecincts #PrecinctFinder #ElectionMaps"],
-    ["Absentee voting options", "available for those unable", "to attend the polls.", "#AbsenteeVoting #VotingByMail #ElectionParticipation"],
-    ["Military and overseas", "voters can cast", "ballots too!", "#MilitaryVoting #OverseasVoting #ElectionsAbroad"],
-    ["Ensure your vote", "counts with the", "right ID.", "#VoterID #ElectionRequirements #IDForVoting"],
-    ["Stay updated on", "upcoming elections,", "dates, and deadlines.", "#UpcomingElections #ElectionDates #VoteNow"],
-    ["Track election night", "results in", "real-time.", "#ElectionResults #VoteCounting #ElectionNight"],
-    ["Understand different types", "of elections and", "their processes.", "#ElectionTypes #PrimaryElections #GeneralElections"],
-    ["Become a Precinct Election", "Official and help on", "Election Day!", "#ElectionOfficials #PollWorkers #CommunityService"],
-    ["Get to know the", "candidates with", "detailed profiles.", "#Candidates #ElectionProfiles #VoteSmart"],
-    ["Stay in touch", "with your elected", "officials.", "#ElectedOfficials #PublicService #GovernmentLeaders"],
-    ["Explore election maps", "to understand", "your district.", "#ElectionMaps #VotingDistricts #DistrictBoundaries"],
-    ["Learn about tax", "sales and upcoming", "lien auctions.", "#TaxSale #TaxLienAuction #PropertySales"],
-    ["Stay updated on", "county financial", "policies and procedures.", "#CountyPolicies #FinancialPolicies #Compliance"],
-    ["Review the county’s", "financial records and", "budget breakdowns.", "#FinancialReports #CountyFinancials #Budgeting"],
-    ["Learn about county", "levies and tax", "rate proposals.", "#CountyLevy #TaxLevy #PublicFinance"],
-    ["Get informed about the", "county’s budget process", "and hearings.", "#CountyBudget #BudgetPlanning #PublicFinance"]
-  ]
-},
-
-{
-      "id": 1,
-      "title": "Assessor",
-      "icon": ["icon-assessment", "icon-tax", "icon-property"],
-      "content": [
-        [
-          "Need property assessments or tax info? We're here to help!",
-          "🔹 Property Assessments & Values",
-          "🔹 Tax Records & Appeals",
-          "📋 Check your assessment status!",
-          "#PropertyAssessment #TaxRecords",
-          "👉 Get your property details now!"
-        ],
-        [
-          "Want to appeal your property assessment or apply for exemptions?",
-          "🔹 Appeal Process & Exemptions",
-          "🔹 Senior, Disability, & Ag Property Exemptions",
-          "💬 Learn your rights!",
-          "#PropertyAppeals #Exemptions",
-          "👉 Start your appeal today!"
-        ],
-        [
-          "Stay informed with the latest assessment updates.",
-          "🔹 Tax Rate Changes & Deadlines",
-          "🔹 Assessment Roll Updates",
-          "📅 Stay up-to-date!",
-          "#TaxRates #AssessmentRoll",
-          "👉 Subscribe for updates!"
-        ],
-        [
-          "Understand how your property value is determined.",
-          "🔹 Valuation Methods & Market Comparisons",
-          "🔹 Appeal Your Property Value",
-          "💬 Get the details!",
-          "#PropertyValuation #MarketComparisons",
-          "👉 Check your property value!"
-        ],
-        [
-          "Transferring property ownership? Learn the steps.",
-          "🔹 Transfer & Title Info",
-          "🔹 Tax Liens & Foreclosures",
-          "📋 Start the process!",
-          "#PropertyTransfer #TitleTransfer",
-          "👉 Begin your transfer now!"
-        ],
-        [
-          "Need property forms? Access them here.",
-          "🔹 Exemption Applications & Appeal Forms",
-          "🔹 Property Info Requests",
-          "📄 Find your forms!",
-          "#TaxForms #AppealForms",
-          "👉 Download forms now!"
-        ],
-        [
-          "Have tax-related questions? We're ready to assist.",
-          "🔹 Tax Payment Info & Inquiries",
-          "🔹 Property Value Questions",
-          "💬 Ask about your property taxes!",
-          "#TaxQuestions #PropertyTaxes",
-          "👉 Ask your tax questions now!"
-        ],
-        [
-          "Learn about the Board of Review process for property appeals.",
-          "🔹 Understand how property disputes are resolved.",
-          "📋 Check the Board’s procedures.",
-          "#BoardOfReview #PropertyAppeals",
-          "👉 Submit your review request!"
-        ],
-        [
-          "The Conference Board oversees assessments in Iowa County.",
-          "🔹 Learn its role and impact on assessments.",
-          "📋 Understand the process.",
-          "#ConferenceBoard #LocalGovernment",
-          "👉 Learn more about the Conference Board."
-        ],
-        [
-          "Explore available property tax credits and exemptions.",
-          "🔹 Apply for exemptions to reduce your tax bill.",
-          "📋 Get started with applications.",
-          "#TaxCredits #Exemptions",
-          "👉 Apply for credits and exemptions!"
-        ],
-        [
-          "Search public real estate records for property info.",
-          "🔹 Find property assessments, ownership, and tax details.",
-          "📋 Start your real estate search.",
-          "#RealEstateSearch #PublicRecords",
-          "👉 Search property details now!"
-        ],
-        [
-          "Understand appraisals and their impact on property assessments.",
-          "🔹 Learn about appraisal methods.",
-          "📋 Get details on appraisals.",
-          "#PropertyAppraisals #TaxAssessment",
-          "👉 Learn how appraisals affect you."
-        ],
-        [
-          "Want to appeal your property assessment?",
-          "🔹 Learn how to file an appeal.",
-          "📋 Start your appeal process.",
-          "#AssessmentAppeal #PropertyDispute",
-          "👉 Begin your appeal now!"
-        ],
-        [
-          "Agricultural land sales and taxation considerations.",
-          "🔹 Learn how land use affects property taxes.",
-          "📋 Check AG land sale rules.",
-          "#AgLandSales #FarmLandTax",
-          "👉 Learn about AG land sales."
-        ],
-        [
-          "Access plat maps for property boundaries.",
-          "🔹 View your property lines and surrounding areas.",
-          "📋 Access plat map resources.",
-          "#PlatMap #PropertyBoundaries",
-          "👉 View your plat map now!"
-        ],
-        [
-          "Need a pre-construction application? Apply here.",
-          "🔹 Get permits for your construction project.",
-          "📋 Begin your application process.",
-          "#PreConstruction #BuildingPermits",
-          "👉 Apply for pre-construction today!"
-        ],
-        [
-          "Check your property assessments and values here.",
-          "🔹 Property Assessments & Values",
-          "📋 Find your assessment info.",
-          "#PropertyAssessments #PropertyTax",
-          "👉 Get your property assessment today!"
-        ],
-        [
-          "Apply for property exemptions like homestead or veteran credits.",
-          "🔹 Exemption Applications",
-          "📋 Start your exemption process.",
-          "#ExemptionApplications #TaxRelief",
-          "👉 Apply for exemptions today!"
-        ],
-        [
-          "Preserve your historic barn with tax benefits.",
-          "🔹 Barn Preservation Exemption",
-          "📋 Apply for this exemption.",
-          "#BarnPreservation #TaxExemption",
-          "👉 Apply for barn preservation now!"
-        ],
-        [
-          "Non-profits may qualify for property tax exemptions.",
-          "🔹 Apply for non-profit exemptions.",
-          "📋 Start the application here.",
-          "#NonProfitExemption #CharitableOrganizations",
-          "👉 Apply for your non-profit exemption."
-        ],
-        [
-          "Certify your native prairie wetland for tax exemptions.",
-          "🔹 Apply for native prairie wetland certification.",
-          "📋 Get certified today.",
-          "#PrairieWetlandExemption #TaxRelief",
-          "👉 Apply for your prairie wetland exemption."
-        ],
-        [
-          "Get tax exemptions for pollution control equipment.",
-          "🔹 Apply for pollution control exemptions.",
-          "📋 Start the application now.",
-          "#PollutionControlExemption #TaxRelief",
-          "👉 Apply for pollution control exemption."
-        ],
-        [
-          "Apply for exemption for forest or fruit tree properties.",
-          "🔹 Forest & Fruit Tree Exemption",
-          "📋 Start your application.",
-          "#ForestExemption #FruitTreeExemption",
-          "👉 Apply for forest or fruit tree exemption."
-        ],
-        [
-          "Get a tax exemption for geothermal systems in your home.",
-          "🔹 Geothermal Heating Exemption",
-          "📋 Apply now for your exemption.",
-          "#GeothermalExemption #EnergyTaxRelief",
-          "👉 Apply for geothermal exemption."
-        ],
-        [
-          "Preserve your historic property and qualify for exemptions.",
-          "🔹 Historic Property Rehabilitation Exemption",
-          "📋 Apply today for tax relief.",
-          "#HistoricExemption #PropertyPreservation",
-          "👉 Start your rehabilitation application."
-        ],
-        [
-          "Exemption for impoundment structures on agricultural land.",
-          "🔹 Apply for impoundment structure exemption.",
-          "📋 Learn more about exemptions.",
-          "#ImpoundmentExemption #AgriculturalTaxRelief",
-          "👉 Apply for exemption today!"
-        ],
-        [
-          "Tax exemptions available for industrial properties.",
-          "🔹 Industrial Property Exemption",
-          "📋 Apply for industrial tax relief.",
-          "#IndustrialExemption #DevelopmentIncentives",
-          "👉 Apply for your exemption now!"
-        ],
-        [
-          "Install a storm shelter and qualify for a tax exemption.",
-          "🔹 Manufactured Home Storm Shelter Exemption",
-          "📋 Apply today for your exemption.",
-          "#StormShelterExemption #ManufacturedHome",
-          "👉 Apply for your exemption now!"
-        ],
-        [
-          "Exemption for methane gas conversion systems.",
-          "🔹 Methane Conversion Exemption",
-          "📋 Apply for conversion exemption.",
-          "#MethaneConversion #EnergyExemption",
-          "👉 Apply for your exemption now!"
-        ],
-        [
-          "Preserve one-room schoolhouses and receive tax benefits.",
-          "🔹 Schoolhouse Preservation Exemption",
-          "📋 Apply for your exemption.",
-          "#SchoolhouseExemption #HistoricPreservation",
-          "👉 Apply for your exemption today!"
-        ],
-        [
-          "Wildlife property exemption for conservation efforts.",
-          "🔹 Wildlife Habitat Exemption",
-          "📋 Apply now for your exemption.",
-          "#WildlifeExemption #ConservationTaxRelief",
-          "👉 Apply for your wildlife exemption!"
+  {
+    "id": 0,
+    "title": "Auditor",
+    "icon": ["icon-recorder", "icon-property", "icon-documents"],
+    "content": [
+      {
+        "id": "0",
+        "season": "Winter",
+        "state": "Iowa",
+        "data": [
+          [
+            [
+              ["Iowa Recordes Department JAN A"],
+              ["Iowa Recordes Department JAN A"],
+              ["Iowa Recordes Department JAN A"]
+            ],
+            [
+              ["Iowa Recordes Department JAN B"],
+              ["Iowa Recordes Department JAN B"],
+              ["Iowa Recordes Department JAN B"]
+            ]
+          ],
+          [
+            [
+              ["Iowa Recordes Department FEB A"],
+              ["Iowa Recordes Department FEB A"],
+              ["Iowa Recordes Department FEB A"]
+            ],
+            [
+              ["Iowa Recordes Department FEB B"],
+              ["Iowa Recordes Department FEB B"],
+              ["Iowa Recordes Department FEB B"]
+            ]
+          ]
         ]
-      ]
-    }
-
+      },
+      {
+        "id": "1",
+        "season": "Winter",
+        "state": "California",
+        "data": [
+          [
+            [
+              ["California Recordes Department JAN A"],
+              ["California Recordes Department JAN A"],
+              ["California Recordes Department JAN A"]
+            ],
+            [
+              ["California Recordes Department JAN B"],
+              ["California Recordes Department JAN B"],
+              ["California Recordes Department JAN B"]
+            ]
+          ],
+          [
+            [
+              ["California Recordes Department FEB A"],
+              ["California Recordes Department FEB A"],
+              ["California Recordes Department FEB A"]
+            ],
+            [
+              ["California Recordes Department FEB B"],
+              ["California Recordes Department FEB B"],
+              ["California Recordes Department FEB B"]
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Assessor🚧👷‍♂️",
+    "icon": ["icon-engineer", "icon-permits", "icon-construction"],
+    "content": [
+      {
+        "id": "0",
+        "season": "Winter",
+        "state": "Iowa",
+        "data": [
+          [
+            [
+              ["Assessor BHAPPY"],
+      
+            ],
+            [
+              ["Assessor B"],
+              ["CNEW YEAR"],
+              ["5022"],
+              ["CMAY THE COMING YEAR"]
+            ]
+          ],
+          [
+            [
+              ["BHAPPY"],
+              ["BNEW YEAR"],
+              ["BMAY THE COMING YEAR"]
+            ],
+            [
+              ["CHAPPY"],
+              ["CNEW YEAR"],
+              ["5022"],
+              ["CMAY THE COMING YEAR"]
+            ]
+          ]
+        ]
+      },
+      {
+        "id": "1",
+        "season": "Winter",
+        "state": "California",
+        "data": [
+          [
+            [
+              ["AClay HAPPY"],
+              ["AClay BNEW YEAR"],
+              ["ACLAYBMAY THE COMING YEAR"]
+            ],
+            [
+              ["DCLAY Clay Clay CHAPPY"],
+              ["DCLAY clay clay CNEW YEAR"],
+              ["DCLAY 5022"],
+              ["DCMAY THE COMING YEAR"]
+            ]
+          ],
+          [
+            [
+              ["AClay HAPPY"],
+              ["AClay BNEW YEAR"],
+              ["ACLAYBMAY THE COMING YEAR"]
+            ],
+            [
+              ["DCLAY Clay Clay CHAPPY"],
+              ["DCLAY clay clay CNEW YEAR"],
+              ["DCLAY 5022"],
+              ["DCMAY THE COMING YEAR"]
+            ]
+          ]
+        ]
+      }
+    ]
+  }
 ]
