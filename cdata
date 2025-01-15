@@ -3,36 +3,13 @@
   "id": 0,
   "title": "Auditor",
   "icon": ["icon-auditor", "icon-analysis", "icon-finance"],
-  "content":[
-    ["Stay informed about the county's", "finances with financial reports", "audits, and tax insights!", "#CountyFinance #AuditReports #PublicAccountability"],
-   
-    ["Absentee voting options", "available for those unable", "to attend the polls.", "#AbsenteeVoting #VotingByMail #ElectionParticipation"],
-
-  ]
+  "content":[ ]
 },
-
 {
       "id": 1,
       "title": "Assessor",
       "icon": ["icon-assessment", "icon-tax", "icon-property"],
-      "content": [
-        [
-          "Need property assessments or tax info? We're here to help!",
-          "🔹 Property Assessments & Values",
-          "🔹 Tax Records & Appeals",
-          "📋 Check your assessment status!",
-          "#PropertyAssessment #TaxRecords",
-          "👉 Get your property details now!"
-        ],
-        [
-          "Want to appeal your property assessment or apply for exemptions?",
-          "🔹 Appeal Process & Exemptions",
-          "🔹 Senior, Disability, & Ag Property Exemptions",
-          "💬 Learn your rights!",
-          "#PropertyAppeals #Exemptions",
-          "👉 Start your appeal today!"
-        ]
-      ]
+      "content": []
     }
 
 ]
