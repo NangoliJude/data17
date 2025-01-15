@@ -1,145 +1,141 @@
 [
   {
-    id: 0,
-    title: 'Recorder',
-    icon: ['icon-recorder', 'icon-property', 'icon-documents'],
-    content: [
-
+    "id": 0,
+    "title": "Recorder",
+    "icon": ["icon-recorder", "icon-property", "icon-documents"],
+    "content": [
       {
-        id: '0',
-        season: 'Winter',
-        state: 'Iowa',
-        data: [
-          [ //jAN
+        "id": "0",
+        "season": "Winter",
+        "state": "Iowa",
+        "data": [
+          [
             [
-              ['Iowa Recordes Department JAN A'],
-              ['Iowa Recordes Department JAN A'],
               ["Iowa Recordes Department JAN A"],
+              ["Iowa Recordes Department JAN A"],
+              ["Iowa Recordes Department JAN A"]
             ],
             [
-              ['Iowa Recordes Department JAN B'],
-              ['Iowa Recordes Department JAN B'],
               ["Iowa Recordes Department JAN B"],
-            ],
+              ["Iowa Recordes Department JAN B"],
+              ["Iowa Recordes Department JAN B"]
+            ]
           ],
-          [//feb
+          [
             [
-              ['Iowa Recordes Department FEB A'],
-              ['Iowa Recordes Department FEB A'],
-              ['Iowa Recordes Department FEB A'],
+              ["Iowa Recordes Department FEB A"],
+              ["Iowa Recordes Department FEB A"],
+              ["Iowa Recordes Department FEB A"]
             ],
             [
-              ['Iowa Recordes Department FEB B'],
-              ['Iowa Recordes Department FEB B'],
-              ['Iowa Recordes Department FEB B'],
-            ],
+              ["Iowa Recordes Department FEB B"],
+              ["Iowa Recordes Department FEB B"],
+              ["Iowa Recordes Department FEB B"]
+            ]
           ]
         ]
       },
-
       {
-        id: '1',
-        season: 'Winter',
-        state: 'California',
-        data: [
-          [ //jAN
+        "id": "1",
+        "season": "Winter",
+        "state": "California",
+        "data": [
+          [
             [
-              ['California Recordes Department JAN A'],
-              ['California Recordes Department JAN A'],
               ["California Recordes Department JAN A"],
+              ["California Recordes Department JAN A"],
+              ["California Recordes Department JAN A"]
             ],
             [
-              ['California Recordes Department JAN B'],
-              ['California Recordes Department JAN B'],
               ["California Recordes Department JAN B"],
-            ],
+              ["California Recordes Department JAN B"],
+              ["California Recordes Department JAN B"]
+            ]
           ],
-          [//feb
+          [
             [
-              ['California Recordes Department FEB A'],
-              ['California Recordes Department FEB A'],
-              ['California Recordes Department FEB A'],
+              ["California Recordes Department FEB A"],
+              ["California Recordes Department FEB A"],
+              ["California Recordes Department FEB A"]
             ],
             [
-              ['California Recordes Department FEB B'],
-              ['California Recordes Department FEB B'],
-              ['California Recordes Department FEB B'],
-            ],
+              ["California Recordes Department FEB B"],
+              ["California Recordes Department FEB B"],
+              ["California Recordes Department FEB B"]
+            ]
           ]
         ]
       }
     ]
   },
   {
-    id: 1,
-    title: 'Engineer 🚧👷‍♂️',
-    icon: ['icon-engineer', 'icon-permits', 'icon-construction'],
-    content: [
-
+    "id": 1,
+    "title": "Engineer 🚧👷‍♂️",
+    "icon": ["icon-engineer", "icon-permits", "icon-construction"],
+    "content": [
       {
-        id: '0',
-        season: 'Winter',
-        state: 'Iowa',
-        data: [
-          [//JAN
+        "id": "0",
+        "season": "Winter",
+        "state": "Iowa",
+        "data": [
+          [
             [
-              [`Engineer BHAPPY`],
-              ['Engineer BNEW YEAR'],
-              ["Engineer BMAY THE COMING YEAR"],
+              ["Engineer BHAPPY"],
+              ["Engineer BNEW YEAR"],
+              ["Engineer BMAY THE COMING YEAR"]
             ],
             [
-              [`Engineer CHAPPY`],
-              ['Engineer CNEW YEAR'],
-              ['Engineer 5022'],
-              ["Engineer CMAY THE COMING YEAR"],
-            ],
+              ["Engineer CHAPPY"],
+              ["Engineer CNEW YEAR"],
+              ["Engineer 5022"],
+              ["Engineer CMAY THE COMING YEAR"]
+            ]
           ],
-          [//FEB
+          [
             [
-              [`BHAPPY`],
-              ['BNEW YEAR'],
-              ["BMAY THE COMING YEAR"],
+              ["BHAPPY"],
+              ["BNEW YEAR"],
+              ["BMAY THE COMING YEAR"]
             ],
             [
-              [`CHAPPY`],
-              ['CNEW YEAR'],
-              ['5022'],
-              ["CMAY THE COMING YEAR"],
-            ],
+              ["CHAPPY"],
+              ["CNEW YEAR"],
+              ["5022"],
+              ["CMAY THE COMING YEAR"]
+            ]
           ]
         ]
       },
-
       {
-        id: '1',
-        season: 'Winter',
-        state: 'California',
-        data: [
-          [//JAN
+        "id": "1",
+        "season": "Winter",
+        "state": "California",
+        "data": [
+          [
             [
-              [`AClay HAPPY`],
-              ['AClay BNEW YEAR'],
-              ["ACLAYBMAY THE COMING YEAR"],
+              ["AClay HAPPY"],
+              ["AClay BNEW YEAR"],
+              ["ACLAYBMAY THE COMING YEAR"]
             ],
             [
-              [`DCLAY Clay Clay CHAPPY`],
-              ['DCLAY clay clay CNEW YEAR'],
-              ['DCLAY 5022'],
-              ["DCMAY THE COMING YEAR"],
-            ],
+              ["DCLAY Clay Clay CHAPPY"],
+              ["DCLAY clay clay CNEW YEAR"],
+              ["DCLAY 5022"],
+              ["DCMAY THE COMING YEAR"]
+            ]
           ],
-          [//FEB
+          [
             [
-              [`AClay HAPPY`],
-              ['AClay BNEW YEAR'],
-              ["ACLAYBMAY THE COMING YEAR"],
+              ["AClay HAPPY"],
+              ["AClay BNEW YEAR"],
+              ["ACLAYBMAY THE COMING YEAR"]
             ],
             [
-              [`DCLAY Clay Clay CHAPPY`],
-              ['DCLAY clay clay CNEW YEAR'],
-              ['DCLAY 5022'],
-              ["DCMAY THE COMING YEAR"],
-            ],
+              ["DCLAY Clay Clay CHAPPY"],
+              ["DCLAY clay clay CNEW YEAR"],
+              ["DCLAY 5022"],
+              ["DCMAY THE COMING YEAR"]
+            ]
           ]
         ]
       }
