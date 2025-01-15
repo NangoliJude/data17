@@ -3,7 +3,70 @@
   "id": 0,
   "title": "Auditor",
   "icon": ["icon-auditor", "icon-analysis", "icon-finance"],
-  "content":[ ]
+ "content": [
+      {
+        "id": "0",
+        "season": "Winter",
+        "state": "Iowa",
+        "data": [
+          [
+            [
+              ["Iowa Recordes Department JAN A"],
+              ["Iowa Recordes Department JAN A"],
+              ["Iowa Recordes Department JAN A"]
+            ],
+            [
+              ["Iowa Recordes Department JAN B"],
+              ["Iowa Recordes Department JAN B"],
+              ["Iowa Recordes Department JAN B"]
+            ]
+          ],
+          [
+            [
+              ["Iowa Recordes Department FEB A"],
+              ["Iowa Recordes Department FEB A"],
+              ["Iowa Recordes Department FEB A"]
+            ],
+            [
+              ["Iowa Recordes Department FEB B"],
+              ["Iowa Recordes Department FEB B"],
+              ["Iowa Recordes Department FEB B"]
+            ]
+          ]
+        ]
+      },
+      {
+        "id": "1",
+        "season": "Winter",
+        "state": "California",
+        "data": [
+          [
+            [
+              ["California Recordes Department JAN A"],
+              ["California Recordes Department JAN A"],
+              ["California Recordes Department JAN A"]
+            ],
+            [
+              ["California Recordes Department JAN B"],
+              ["California Recordes Department JAN B"],
+              ["California Recordes Department JAN B"]
+            ]
+          ],
+          [
+            [
+              ["California Recordes Department FEB A"],
+              ["California Recordes Department FEB A"],
+              ["California Recordes Department FEB A"]
+            ],
+            [
+              ["California Recordes Department FEB B"],
+              ["California Recordes Department FEB B"],
+              ["California Recordes Department FEB B"]
+            ]
+          ]
+        ]
+      }
+    ]
 },
 {
       "id": 1,
