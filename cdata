@@ -1,16 +1,16 @@
 [
-{
-  "id": 0,
-  "title": "Auditor",
-  "icon": ["icon-auditor", "icon-analysis", "icon-finance"],
-  "option": [
-      ['JAN A'],
-      ['JAN A'],
+  {
+    "id": 0,
+    "title": "Auditor",
+    "icon": ["icon-auditor", "icon-analysis", "icon-finance"],
+    "option": [
       ["JAN A"],
-      ['Timer']
-      ['Timer']
+      ["JAN A"],
+      ["JAN A"],
+      ["Timer"],
+      ["Timer"]
     ],
- "content": [
+    "content": [
       {
         "id": "0",
         "season": "Winter",
@@ -74,19 +74,18 @@
         ]
       }
     ]
-},
-{
-      "id": 1,
-      "title": "Assessor",
-      "icon": ["icon-assessment", "icon-tax", "icon-property"],
+  },
+  {
+    "id": 1,
+    "title": "Assessor",
+    "icon": ["icon-assessment", "icon-tax", "icon-property"],
     "option": [
-      ['JAN A'],
-      ['JAN A'],
       ["JAN A"],
-      ['Timer']
-      ['Timer']
+      ["JAN A"],
+      ["JAN A"],
+      ["Timer"],
+      ["Timer"]
     ],
-      "content": []
-    }
-
+    "content": []
+  }
 ]
