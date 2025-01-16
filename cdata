@@ -3,6 +3,13 @@
   "id": 0,
   "title": "Auditor",
   "icon": ["icon-auditor", "icon-analysis", "icon-finance"],
+  option: [
+      ['JAN A'],
+      ['JAN A'],
+      ["JAN A"],
+      ['Timer']
+      ['Timer']
+    ],
  "content": [
       {
         "id": "0",
@@ -72,6 +79,13 @@
       "id": 1,
       "title": "Assessor",
       "icon": ["icon-assessment", "icon-tax", "icon-property"],
+     option: [
+      ['JAN A'],
+      ['JAN A'],
+      ["JAN A"],
+      ['Timer']
+      ['Timer']
+    ],
       "content": []
     }
 
